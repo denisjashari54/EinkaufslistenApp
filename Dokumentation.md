@@ -33,7 +33,7 @@ MultiUserApplikation
 | ----- | ------------------ | --------------------------- | ---------------------------------------------------- |
 | 1.1   | WPF-UI         | Klick auf "Hinzufügen"    | Neues Artikel wird hinzugefügt                |
 | 1.2   | API (Swagger)         | POST-Anfrage tätigen   | Neues Artikel wird hinzugefügt                |
-| 2.1   | WPF-Ui         | Klick auf "Bearbeiten"        | Artikel wurde bearbeitet. |
+| 2.1   | WPF-UI         | Klick auf "Bearbeiten"        | Artikel wurde bearbeitet. |
 | 2.2   | API (Swagger)         | PUT-Anfrage tätigen        | Artikel wurde bearbeitet. |
 | 3.1   | WPF-UI    | Klick auf "gekauft" | Artikel wird als "gekauft" markiert.            |
 | 4.1   | WPF-UI | Klick auf "Löschen" | Artikel wird gelöscht.              |
@@ -44,6 +44,7 @@ MultiUserApplikation
 | 8.1   | SSMS    | Keine Eingabe | Echtzeit-Liveübertragungen funktionieren einwandfrei.          |
 
 ### 1.4 Diagramme
+Dieses Low-Fidelity-Entwurf soll die grafische Benutzeroberfläche (GUI) der EinkaufslistenApp darstellen.  
 ![image](https://github.com/user-attachments/assets/1d836875-2895-4796-8b1c-75991db3affd)
 
 
