@@ -10,7 +10,7 @@ Umser
 
 ### 1.1 Ihr Projekt
 
-MultiUserApplikation
+Die Anwendung ermöglicht mehreren Benutzern ihre Einkäufe zentral zu verwalten. Über eine WebAPI und WPF-GUI können Einträge erstellt, gelesen, aktualisiert und gelöscht werden. Die Daten werden sicher in einer SQL-Datenbank gespeichert.
 
 ### 1.2 User Stories
 
