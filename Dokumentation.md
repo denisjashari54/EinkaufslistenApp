@@ -54,22 +54,6 @@ MultiUserApplikation
 
 ### Mockups
 
-#### Startseite
-![image](https://github.com/denisjashari54/LA1302/assets/107101355/2443fed5-bcdb-40bb-b3cb-34e4f7e15d0c)
-
-
-#### Unterseite (Porsche, Mercedes, BMW, Audi)
-![image](https://github.com/denisjashari54/LA1302/assets/107101355/e998dc05-721e-4fdb-8a12-dc0b8d5f7122)
-
-
-#### Anmelden
-![image](https://github.com/denisjashari54/LA1302/assets/107101355/07d0732f-0304-471a-90b2-9375e1a160e1)
-
-
-#### Warenkorb
-![image](https://github.com/denisjashari54/LA1302/assets/107101355/e5a3c257-0897-4165-b5a3-3da8aceb5dcd)
-
-
 
 ## 2 Planen
 
