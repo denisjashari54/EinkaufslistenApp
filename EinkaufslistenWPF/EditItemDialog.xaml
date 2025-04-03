@@ -1,0 +1,23 @@
+<Window x:Class="EinkaufslistenWPF.EditItemDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Eintrag bearbeiten" Height="200" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Name:" Margin="10"/>
+        <TextBox x:Name="NameTextBox" Grid.Row="0" Margin="10,30,10,10"/>
+
+        <TextBlock Text="Menge:" Grid.Row="1" Margin="10"/>
+        <TextBox x:Name="MengeTextBox" Grid.Row="1" Margin="10,30,10,10"/>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Right" Margin="10">
+            <Button Content="Speichern" Width="80" Click="Speichern_Click"/>
+            <Button Content="Abbrechen" Width="80" Click="Abbrechen_Click" Margin="10,0,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>
