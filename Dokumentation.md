@@ -5,7 +5,6 @@
 | 12.02.2025  | 0.0.1   | Beginn der Planungs- und Entwicklungsphase für die Auto-Website. Erstellung der Konzepte für Anmelde- und Registrierfunktionen sowie Struktur der Startseite und Unterseiten. |
 | 19.02.2025  | 0.0.2   | Programmierung der Startseite begonnen, Aufteilung und Zuweisung der Unterseiten für verschiedene Automarken. |
 | 26.02.2025  | 0.0.3   | Überarbeitung und Detailplanung der Website, Entwicklung der Anmelde- und Registrierfunktion sowie Erweiterung der Unterseiten für die Automarken. |
-| 05.03.2025  | 0.0.3   | Revision der Website, Verfeinerung der Funktionen und Designs für die Startseite und die spezifischen Automarken-Seiten. |
 
 ## 1 Informieren
 
@@ -40,7 +39,7 @@ MultiUserApplikation
 | 5.1   | SSMS    | Keine Eingabe        |  Artikel wird gespeichert und aktualisiert.               |
 | 6.1   | API (Swagger)         | Keine Eingabe          | Die API funktioniert einwandfrei. |
 | 7.1   | WPF    | Keine Eingabe |  WPF funktioniert einwandfrei.         |
-| 8.1   | SSMS    | Keine Eingabe | Echtzeit-Liveübertragungen funktionieren einwandfrei.          |
+| 8.1   | SSMS    | Keine Eingabe | Echtzeitübertragungen funktionieren einwandfrei.          |
 
 ### 1.4 Diagramme
 Dieses Low-Fidelity-Entwurf soll die grafische Benutzeroberfläche (GUI) der EinkaufslistenApp darstellen.
@@ -54,18 +53,18 @@ Dieses Low-Fidelity-Entwurf soll die grafische Benutzeroberfläche (GUI) der Ein
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A | 12.02.2025 | Jashari | Entwicklung der Benutzer, um Artikel hinzufügen zu können  | 120' |
 | 2.A | 12.02.2025 | Jashari | Implementierung der Bearbeitenfunktion | 45' |
-| 3.A | 19.02.2025 | Jashari | Implementierung der Funktion, Artikel als "gekauft" zu markieren.  | 30' |
+| 3.A | 12.02.2025 | Jashari | Implementierung der Funktion, Artikel als "gekauft" zu markieren.  | 30' |
 | 4.A | 19.02.2025 | Jashari| Implementierung der Löschfunktion | 45' |
 | 5.A | 19.02.2025 | Jashari | Verbindung zu SMSS erstellen. | 30' |
-| 6.A | 26.02.2025 | Jashari | API funktionstüchtig versetzen. | 30' |
+| 6.A | 19.02.2025 | Jashari | API funktionstüchtig versetzen. | 30' |
 | 7.A | 26.02.2025 | Jashari | WPF funktionstüchtig versetzen.  | 120' |
-| 8.A | 26.02.2025 | Jashari | Echtzeit-Liveübertragung implementieren. | 240' |
+| 8.A | 26.02.2025 | Jashari | Echtzeitübertragung implementieren. | 45' |
 
 
 ## 3 Entscheiden
 
 
-Wir haben in der Gruppe die Arbeitspakete fair verteilt, sodass wir alle zum Implementieren beitragen. Dadurch haben wir auch eine gute Zeiteinteilung erreicht.
+
 
 ## 4 Realisieren
 
@@ -78,7 +77,7 @@ Wir haben in der Gruppe die Arbeitspakete fair verteilt, sodass wir alle zum Imp
 | 5.A  | 19.02.2025 | Jashari       | 120'          |  100'               |
 | 6.A  | 26.02.2025 | Jashari     | 180'          |  140'              |
 | 7.A  | 26.02.2025 | Jashari     | 240'          |  120'               |
-| 7.A  | 26.02.2025 | Jashari     | 240'          |  120'               |
+| 8.A  | 26.02.2025 | Jashari     | 240'          |  120'               |
 
 
 ## 5 Kontrollieren
