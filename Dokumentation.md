@@ -72,10 +72,10 @@ Dieses Low-Fidelity-Entwurf soll die grafische Benutzeroberfläche (GUI) der Ein
 | ---- | ---------- | ----------- | ------------- | ----------------- |
 | 1.A  | 12.02.2025 | Jashari       | 120'          |  120'                 |
 | 2.A  | 12.02.2025 | Jashari     | 45'          |  30'                 |
-| 3.A  | 19.02.2025 | Jashari  | 30'           |  20'                  |
+| 3.A  | 12.02.2025 | Jashari  | 30'           |  20'                  |
 | 4.A  | 19.02.2025 | Jashari  | 45'          |  30'                |
 | 5.A  | 19.02.2025 | Jashari       | 30'          |  20'               |
-| 6.A  | 26.02.2025 | Jashari     | 30'          |  20'              |
+| 6.A  | 19.02.2025 | Jashari     | 30'          |  20'              |
 | 7.A  | 26.02.2025 | Jashari     | 120'          |  120'               |
 | 8.A  | 26.02.2025 | Jashari     | 45'          |  30'               |
 
@@ -86,10 +86,11 @@ Dieses Low-Fidelity-Entwurf soll die grafische Benutzeroberfläche (GUI) der Ein
 
 | TC-№ | Datum      | Resultat | Tester      |
 | ---- | ---------- | -------- | ----------- |
-| 1.1  | 12.01.2024 |   Funktioniert       | Jashari     |
-| 2.1  | 12.01.2024 |   Funktioniert       | Jashari       |
-| 3.1  | 12.01.2024 |   Funktioniert       | Jashari     |
-| 4.1  | 12.01.2024 |   Funktioniert      | Jashari       |
-| 5.1  | 12.01.2024 |   Funktioniert      | Jashari  |
-| 6.1  | 12.01.2024 |   Funktioniert       | Jashari     |
-| 7.1  | 12.01.2024 |   Funktioniert       | Jashari     |
+| 1.1  | 26.02.2024 |   Funktioniert       | Jashari     |
+| 2.1  | 26.02.2024 |   Funktioniert       | Jashari     |
+| 3.1  | 26.02.2024 |   Funktioniert       | Jashari     |
+| 4.1  | 26.02.2024 |   Funktioniert       | Jashari     |
+| 5.1  | 26.02.2024 |   Funktioniert       | Jashari     |
+| 6.1  | 26.02.2024 |   Funktioniert       | Jashari     |
+| 7.1  | 26.02.2024 |   Funktioniert       | Jashari     |
+| 8.1  | 26.02.2024 |   Funktioniert       | Jashari     |
