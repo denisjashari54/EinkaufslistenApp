@@ -1,10 +1,10 @@
 # Projekt-Dokumentation
-
+Umser
 | Datum       | Version | Zusammenfassung                                              |
 | ----------- | ------- | ------------------------------------------------------------ |
-| 12.02.2025  | 0.0.1   | Beginn der Planungs- und Entwicklungsphase für die Auto-Website. Erstellung der Konzepte für Anmelde- und Registrierfunktionen sowie Struktur der Startseite und Unterseiten. |
-| 19.02.2025  | 0.0.2   | Programmierung der Startseite begonnen, Aufteilung und Zuweisung der Unterseiten für verschiedene Automarken. |
-| 26.02.2025  | 0.0.3   | Überarbeitung und Detailplanung der Website, Entwicklung der Anmelde- und Registrierfunktion sowie Erweiterung der Unterseiten für die Automarken. |
+| 12.02.2025  | 0.0.1   | Beginn der Planungs- und Entwicklungsphase für die Multi-User Applikation.  |
+| 19.02.2025  | 0.0.2   | Umsetzung der Kernfunktionen. |
+| 26.02.2025  | 0.0.3   | Finalisierung des Projekts. |
 
 ## 1 Informieren
 
@@ -62,8 +62,7 @@ Dieses Low-Fidelity-Entwurf soll die grafische Benutzeroberfläche (GUI) der Ein
 
 
 ## 3 Entscheiden
-
-
+Ich habe mich entschieden, eine Multi-User-Einkaufsliste mit ASP.NET Core WebAPI und SQL-Datenbank zu entwickeln, da sie es ermöglicht, mehreren Benutzern individuelle Einkaufsdaten zu speichern und zu verwalten. Dadurch wird die Anwendung alltagstauglicher und realistischer, weil verschiedene Benutzer gleichzeitig ihre eigene Einkaufsliste führen können. Die Benutzertrennung erfolgt durch den übermittelten Benutzernamen, wodurch einfache Mehrbenutzerunterstützung ohne Login-System realisiert wird.
 
 
 ## 4 Realisieren
