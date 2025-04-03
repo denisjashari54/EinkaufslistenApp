@@ -70,14 +70,14 @@ Dieses Low-Fidelity-Entwurf soll die grafische Benutzeroberfläche (GUI) der Ein
 
 | AP-№ | Datum      | Zuständig   | Geplante Zeit | Tatsächliche Zeit |
 | ---- | ---------- | ----------- | ------------- | ----------------- |
-| 1.A  | 12.02.2025 | Jashari       | 120'          |  110'                 |
-| 2.A  | 12.02.2025 | Jashari     | 120'          |  100'                 |
-| 3.A  | 19.02.2025 | Jashari  | 60'           |  50'                  |
-| 4.A  | 19.02.2025 | Jashari  | 180'          |  140'                |
-| 5.A  | 19.02.2025 | Jashari       | 120'          |  100'               |
-| 6.A  | 26.02.2025 | Jashari     | 180'          |  140'              |
-| 7.A  | 26.02.2025 | Jashari     | 240'          |  120'               |
-| 8.A  | 26.02.2025 | Jashari     | 240'          |  120'               |
+| 1.A  | 12.02.2025 | Jashari       | 120'          |  120'                 |
+| 2.A  | 12.02.2025 | Jashari     | 45'          |  30'                 |
+| 3.A  | 19.02.2025 | Jashari  | 30'           |  20'                  |
+| 4.A  | 19.02.2025 | Jashari  | 45'          |  30'                |
+| 5.A  | 19.02.2025 | Jashari       | 30'          |  20'               |
+| 6.A  | 26.02.2025 | Jashari     | 30'          |  20'              |
+| 7.A  | 26.02.2025 | Jashari     | 120'          |  120'               |
+| 8.A  | 26.02.2025 | Jashari     | 45'          |  30'               |
 
 
 ## 5 Kontrollieren
