@@ -6,7 +6,6 @@
 | 19.02.2025  | 0.0.2   | Programmierung der Startseite begonnen, Aufteilung und Zuweisung der Unterseiten für verschiedene Automarken. |
 | 26.02.2025  | 0.0.3   | Überarbeitung und Detailplanung der Website, Entwicklung der Anmelde- und Registrierfunktion sowie Erweiterung der Unterseiten für die Automarken. |
 | 05.03.2025  | 0.0.3   | Revision der Website, Verfeinerung der Funktionen und Designs für die Startseite und die spezifischen Automarken-Seiten. |
-| 12.03.2023  | 0.0.4   | Abschluss der Entwicklungsarbeiten, vorläufige Fertigstellung der Auto-Website, Beginn der Vorbereitung auf den Portfolioeintrag. |
 
 ## 1 Informieren
 
@@ -49,20 +48,18 @@ Dieses Low-Fidelity-Entwurf soll die grafische Benutzeroberfläche (GUI) der Ein
 ![image](https://github.com/user-attachments/assets/1d836875-2895-4796-8b1c-75991db3affd)
 
 
-### Mockups
-
-
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A | 15.06.2023 | Marku | Entwicklung der Registrierungsfunktion für Benutzerkonten. | 120' |
-| 2.A | 22.06.2023 | Jashari | Implementierung der Anmeldefunktion für Benutzerkonten. | 120' |
-| 3.A | 29.06.2023 | Bajramovic | Implementierung der Funktion zum Zurücksetzen von Passwörtern. | 60' |
-| 4.A | 06.07.2023 | Bajramovic| Entwicklung der Filterfunktion für Autosuche nach Marken. | 180' |
-| 5.A | 13.07.2023 | Marku | Implementierung der Sortierfunktion für Suchergebnisse. | 120' |
-| 6.A | 20.07.2023 | Jashari | Programmierung der Detailansicht für Autos mit Fotos und Daten. | 180' |
-| 7.A | 27.07.2023 | Angelov | Optimierung der Benutzerfreundlichkeit und Intuitivität der Website. | 240' |
+| 1.A | 12.02.2025 | Jashari | Entwicklung der Registrierungsfunktion für Benutzerkonten. | 120' |
+| 2.A | 12.02.2025 | Jashari | Implementierung der Anmeldefunktion für Benutzerkonten. | 120' |
+| 3.A | 19.02.2025 | Jashari | Implementierung der Funktion zum Zurücksetzen von Passwörtern. | 60' |
+| 4.A | 19.02.2025 | Jashari| Entwicklung der Filterfunktion für Autosuche nach Marken. | 180' |
+| 5.A | 19.02.2025 | Jashari | Implementierung der Sortierfunktion für Suchergebnisse. | 120' |
+| 6.A | 26.02.2025 | Jashari | Programmierung der Detailansicht für Autos mit Fotos und Daten. | 180' |
+| 7.A | 26.02.2025 | Jashari | Optimierung der Benutzerfreundlichkeit und Intuitivität der Website. | 240' |
+| 8.A | 26.02.2025 | Jashari | Optimierung der Benutzerfreundlichkeit und Intuitivität der Website. | 240' |
 
 
 ## 3 Entscheiden
@@ -74,13 +71,14 @@ Wir haben in der Gruppe die Arbeitspakete fair verteilt, sodass wir alle zum Imp
 
 | AP-№ | Datum      | Zuständig   | Geplante Zeit | Tatsächliche Zeit |
 | ---- | ---------- | ----------- | ------------- | ----------------- |
-| 1.A  | 15.06.2023 | Jashari       | 120'          |  110'                 |
-| 2.A  | 22.06.2023 | Jashari     | 120'          |  100'                 |
-| 3.A  | 29.06.2023 | Jashari  | 60'           |  50'                  |
-| 4.A  | 06.07.2023 | Jashari  | 180'          |  140'                |
-| 5.A  | 13.07.2023 | Jashari       | 120'          |  100'               |
-| 6.A  | 20.07.2023 | Jashari     | 180'          |  140'              |
-| 7.A  | 27.07.2023 | Jashari     | 240'          |  120'               |
+| 1.A  | 12.02.2025 | Jashari       | 120'          |  110'                 |
+| 2.A  | 12.02.2025 | Jashari     | 120'          |  100'                 |
+| 3.A  | 19.02.2025 | Jashari  | 60'           |  50'                  |
+| 4.A  | 19.02.2025 | Jashari  | 180'          |  140'                |
+| 5.A  | 19.02.2025 | Jashari       | 120'          |  100'               |
+| 6.A  | 26.02.2025 | Jashari     | 180'          |  140'              |
+| 7.A  | 26.02.2025 | Jashari     | 240'          |  120'               |
+| 7.A  | 26.02.2025 | Jashari     | 240'          |  120'               |
 
 
 ## 5 Kontrollieren
