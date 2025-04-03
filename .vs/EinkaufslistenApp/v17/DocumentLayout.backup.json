@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C427B70C-181E-4DF4-BCC5-EA74E466FFD9}|EinkaufslistenApp\\EinkaufslistenApp.csproj|c:\\users\\djash\\documents\\bbb\\m223\\einkaufslistenapp\\einkaufslistenapp\\controllers\\einkaufsitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C427B70C-181E-4DF4-BCC5-EA74E466FFD9}|EinkaufslistenApp\\EinkaufslistenApp.csproj|solutionrelative:einkaufslistenapp\\controllers\\einkaufsitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C427B70C-181E-4DF4-BCC5-EA74E466FFD9}|EinkaufslistenApp\\EinkaufslistenApp.csproj|c:\\users\\djash\\documents\\bbb\\m223\\einkaufslistenapp\\einkaufslistenapp\\tests\\concurrencytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C427B70C-181E-4DF4-BCC5-EA74E466FFD9}|EinkaufslistenApp\\EinkaufslistenApp.csproj|solutionrelative:einkaufslistenapp\\tests\\concurrencytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C427B70C-181E-4DF4-BCC5-EA74E466FFD9}|EinkaufslistenApp\\EinkaufslistenApp.csproj|c:\\users\\djash\\documents\\bbb\\m223\\einkaufslistenapp\\einkaufslistenapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C427B70C-181E-4DF4-BCC5-EA74E466FFD9}|EinkaufslistenApp\\EinkaufslistenApp.csproj|solutionrelative:einkaufslistenapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A1BC15-D659-40C5-89C3-AEC3F2E7D647}|LoadTest\\LoadTest.csproj|c:\\users\\djash\\documents\\bbb\\m223\\einkaufslistenapp\\loadtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A1BC15-D659-40C5-89C3-AEC3F2E7D647}|LoadTest\\LoadTest.csproj|solutionrelative:loadtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7379A71-A659-45DF-A87D-FD84B05AD2B0}|EinkaufslistenWPF\\EinkaufslistenWPF.csproj|c:\\users\\djash\\documents\\bbb\\m223\\einkaufslistenapp\\einkaufslistenwpf\\edititemdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7379A71-A659-45DF-A87D-FD84B05AD2B0}|EinkaufslistenWPF\\EinkaufslistenWPF.csproj|solutionrelative:einkaufslistenwpf\\edititemdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7379A71-A659-45DF-A87D-FD84B05AD2B0}|EinkaufslistenWPF\\EinkaufslistenWPF.csproj|c:\\users\\djash\\documents\\bbb\\m223\\einkaufslistenapp\\einkaufslistenwpf\\edititemdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7379A71-A659-45DF-A87D-FD84B05AD2B0}|EinkaufslistenWPF\\EinkaufslistenWPF.csproj|solutionrelative:einkaufslistenwpf\\edititemdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7379A71-A659-45DF-A87D-FD84B05AD2B0}|EinkaufslistenWPF\\EinkaufslistenWPF.csproj|c:\\users\\djash\\documents\\bbb\\m223\\einkaufslistenapp\\einkaufslistenwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7379A71-A659-45DF-A87D-FD84B05AD2B0}|EinkaufslistenWPF\\EinkaufslistenWPF.csproj|solutionrelative:einkaufslistenwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7379A71-A659-45DF-A87D-FD84B05AD2B0}|EinkaufslistenWPF\\EinkaufslistenWPF.csproj|c:\\users\\djash\\documents\\bbb\\m223\\einkaufslistenapp\\einkaufslistenwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7379A71-A659-45DF-A87D-FD84B05AD2B0}|EinkaufslistenWPF\\EinkaufslistenWPF.csproj|solutionrelative:einkaufslistenwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7379A71-A659-45DF-A87D-FD84B05AD2B0}|EinkaufslistenWPF\\EinkaufslistenWPF.csproj|c:\\users\\djash\\documents\\bbb\\m223\\einkaufslistenapp\\einkaufslistenwpf\\textinputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7379A71-A659-45DF-A87D-FD84B05AD2B0}|EinkaufslistenWPF\\EinkaufslistenWPF.csproj|solutionrelative:einkaufslistenwpf\\textinputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7379A71-A659-45DF-A87D-FD84B05AD2B0}|EinkaufslistenWPF\\EinkaufslistenWPF.csproj|c:\\users\\djash\\documents\\bbb\\m223\\einkaufslistenapp\\einkaufslistenwpf\\textinputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7379A71-A659-45DF-A87D-FD84B05AD2B0}|EinkaufslistenWPF\\EinkaufslistenWPF.csproj|solutionrelative:einkaufslistenwpf\\textinputdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConcurrencyTests.cs",
+              "DocumentMoniker": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\EinkaufslistenApp\\Tests\\ConcurrencyTests.cs",
+              "RelativeDocumentMoniker": "EinkaufslistenApp\\Tests\\ConcurrencyTests.cs",
+              "ToolTip": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\EinkaufslistenApp\\Tests\\ConcurrencyTests.cs",
+              "RelativeToolTip": "EinkaufslistenApp\\Tests\\ConcurrencyTests.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwHwAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:45:33.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\LoadTest\\Program.cs",
+              "RelativeDocumentMoniker": "LoadTest\\Program.cs",
+              "ToolTip": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\LoadTest\\Program.cs",
+              "RelativeToolTip": "LoadTest\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:44:24.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TextInputDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\EinkaufslistenWPF\\TextInputDialog.xaml.cs",
+              "RelativeDocumentMoniker": "EinkaufslistenWPF\\TextInputDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\EinkaufslistenWPF\\TextInputDialog.xaml.cs",
+              "RelativeToolTip": "EinkaufslistenWPF\\TextInputDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T17:39:24.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\EinkaufslistenApp\\Program.cs",
+              "RelativeDocumentMoniker": "EinkaufslistenApp\\Program.cs",
+              "ToolTip": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\EinkaufslistenApp\\Program.cs",
+              "RelativeToolTip": "EinkaufslistenApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:41:43.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditItemDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\EinkaufslistenWPF\\EditItemDialog.xaml",
+              "RelativeDocumentMoniker": "EinkaufslistenWPF\\EditItemDialog.xaml",
+              "ToolTip": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\EinkaufslistenWPF\\EditItemDialog.xaml",
+              "RelativeToolTip": "EinkaufslistenWPF\\EditItemDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-24T17:39:57.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\EinkaufslistenWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EinkaufslistenWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\EinkaufslistenWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EinkaufslistenWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T17:39:41.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EinkaufsItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\EinkaufslistenApp\\Controllers\\EinkaufsItemsController.cs",
+              "RelativeDocumentMoniker": "EinkaufslistenApp\\Controllers\\EinkaufsItemsController.cs",
+              "ToolTip": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\EinkaufslistenApp\\Controllers\\EinkaufsItemsController.cs",
+              "RelativeToolTip": "EinkaufslistenApp\\Controllers\\EinkaufsItemsController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAwwIIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T17:31:32.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditItemDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\EinkaufslistenWPF\\EditItemDialog.xaml.cs",
+              "RelativeDocumentMoniker": "EinkaufslistenWPF\\EditItemDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\EinkaufslistenWPF\\EditItemDialog.xaml.cs",
+              "RelativeToolTip": "EinkaufslistenWPF\\EditItemDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T17:39:53.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\EinkaufslistenWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EinkaufslistenWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\EinkaufslistenWPF\\MainWindow.xaml",
+              "RelativeToolTip": "EinkaufslistenWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-24T17:39:48.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TextInputDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\EinkaufslistenWPF\\TextInputDialog.xaml",
+              "RelativeDocumentMoniker": "EinkaufslistenWPF\\TextInputDialog.xaml",
+              "ToolTip": "C:\\Users\\djash\\Documents\\BBB\\M223\\EinkaufslistenApp\\EinkaufslistenWPF\\TextInputDialog.xaml",
+              "RelativeToolTip": "EinkaufslistenWPF\\TextInputDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-24T17:39:19.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
