@@ -44,7 +44,8 @@ MultiUserApplikation
 | 8.1   | SSMS    | Keine Eingabe | Echtzeit-Liveübertragungen funktionieren einwandfrei.          |
 
 ### 1.4 Diagramme
-Dieses Low-Fidelity-Entwurf soll die grafische Benutzeroberfläche (GUI) der EinkaufslistenApp darstellen.  
+Dieses Low-Fidelity-Entwurf soll die grafische Benutzeroberfläche (GUI) der EinkaufslistenApp darstellen.
+
 ![image](https://github.com/user-attachments/assets/1d836875-2895-4796-8b1c-75991db3affd)
 
 
