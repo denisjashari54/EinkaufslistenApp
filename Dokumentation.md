@@ -39,11 +39,13 @@ MultiUserApplikation
 | 4.1   | WPF-UI | Klick auf "Löschen" | Artikel wird gelöscht.              |
 | 4.1   | API (Swagger) | DELETE-Anfrage tätigen | Artikel wird gelöscht.              |
 | 5.1   | SSMS    | Keine Eingabe        |  Artikel wird gespeichert und aktualisiert.               |
-| 6.1   | Auto-Liste         | Klick auf ein Auto          | Detailansicht des gewählten Autos mit technischen Daten und Fotos |
-| 7.1   | Beliebige Seite    | Navigation durch die Website | Einfache und intuitive Nutzung der Website          |
-
+| 6.1   | API (Swagger)         | Keine Eingabe          | Die API funktioniert einwandfrei. |
+| 7.1   | WPF    | Keine Eingabe | Die WPF funktioniert einwandfrei.         |
+| 8.1   | SSMS    | Keine Eingabe | Echtzeit-Liveübertragungen funktionieren einwandfrei.          |
 
 ### 1.4 Diagramme
+![image](https://github.com/user-attachments/assets/1d836875-2895-4796-8b1c-75991db3affd)
+
 
 ### Mockups
 
