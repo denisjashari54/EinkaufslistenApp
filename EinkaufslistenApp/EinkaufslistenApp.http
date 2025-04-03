@@ -1,0 +1,6 @@
+@EinkaufslistenApp_HostAddress = http://localhost:5258
+
+GET {{EinkaufslistenApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
