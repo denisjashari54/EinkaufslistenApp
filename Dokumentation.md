@@ -33,7 +33,7 @@ MultiUserApplikation
 | ----- | ------------------ | --------------------------- | ---------------------------------------------------- |
 | 1.1   | Startseite         | Klick auf "Registrieren"    | Registrierungsformular wird angezeigt                |
 | 1.2   | Registrierungsformular | Ausgefülltes Formular         | Bestätigungsnachricht über erfolgreiche Registrierung |
-| 2.1   | Startseite         | Klick auf "Anmelden"        | Anmeldeformular wird angezeigt                       |
+| 2.1   | Startseite         | Klick auf "Anmelden"        | Anmeldeformular wird angezeigt |
 | 2.2   | Anmeldeformular    | Eingabe von Benutzerdaten   | Zugang zum Benutzerkonto                             |
 | 3.1   | Anmeldeformular    | Klick auf "Passwort vergessen" | Formular zum Zurücksetzen des Passworts            |
 | 3.2   | Passwort zurücksetzen Formular | Eingabe von Benutzer-Email | Anweisungen zum Zurücksetzen des Passworts per Email |
