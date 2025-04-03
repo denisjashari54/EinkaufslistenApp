@@ -22,9 +22,10 @@ MultiUserApplikation
 | 2    | Muss            | Funktional  | Benutzer können Artikel in der Einkaufsliste bearbeiten. |
 | 3    | Kann            | Funktional  | Benutzer können Artikel als „gekauft“ markieren. |
 | 4    | Muss            | Funktional  | Benutzer können Artikel löschen. |
-| 5    | Muss            | Funktional  | Die Applikation soll über das Internet benutzbar sein. |
-| 6    | Muss            | Funktional  | Die Applikation soll über ein lokales GUI (WPF) verfügen. |
-| 7    | Muss            | Qualität    | Transaktionsmanagement soll sicherstellen, dass Datenkonsistenz gewährleistet wird. |
+| 4    | Muss            | Funktional  | Artikel werden in SSMS gespeichert und andauernd aktualisiert bei neuen Einträgen. |
+| 5    | Muss            | Qualität  | Die Applikation soll über das Internet benutzbar sein. |
+| 6    | Muss            | Qualität  | Die Applikation soll über ein lokales GUI (WPF) verfügen. |
+| 7    | Muss            | Funktional    | Transaktionsmanagement soll sicherstellen, dass Datenkonsistenz gewährleistet wird. |
 
 ### 1.3 Testfälle
 
