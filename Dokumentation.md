@@ -39,7 +39,7 @@ MultiUserApplikation
 | 4.1   | API (Swagger) | DELETE-Anfrage tätigen | Artikel wird gelöscht.              |
 | 5.1   | SSMS    | Keine Eingabe        |  Artikel wird gespeichert und aktualisiert.               |
 | 6.1   | API (Swagger)         | Keine Eingabe          | Die API funktioniert einwandfrei. |
-| 7.1   | WPF    | Keine Eingabe | Die WPF funktioniert einwandfrei.         |
+| 7.1   | WPF    | Keine Eingabe |  WPF funktioniert einwandfrei.         |
 | 8.1   | SSMS    | Keine Eingabe | Echtzeit-Liveübertragungen funktionieren einwandfrei.          |
 
 ### 1.4 Diagramme
@@ -52,14 +52,14 @@ Dieses Low-Fidelity-Entwurf soll die grafische Benutzeroberfläche (GUI) der Ein
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A | 12.02.2025 | Jashari | Entwicklung der Registrierungsfunktion für Benutzerkonten. | 120' |
-| 2.A | 12.02.2025 | Jashari | Implementierung der Anmeldefunktion für Benutzerkonten. | 120' |
-| 3.A | 19.02.2025 | Jashari | Implementierung der Funktion zum Zurücksetzen von Passwörtern. | 60' |
-| 4.A | 19.02.2025 | Jashari| Entwicklung der Filterfunktion für Autosuche nach Marken. | 180' |
-| 5.A | 19.02.2025 | Jashari | Implementierung der Sortierfunktion für Suchergebnisse. | 120' |
-| 6.A | 26.02.2025 | Jashari | Programmierung der Detailansicht für Autos mit Fotos und Daten. | 180' |
-| 7.A | 26.02.2025 | Jashari | Optimierung der Benutzerfreundlichkeit und Intuitivität der Website. | 240' |
-| 8.A | 26.02.2025 | Jashari | Optimierung der Benutzerfreundlichkeit und Intuitivität der Website. | 240' |
+| 1.A | 12.02.2025 | Jashari | Entwicklung der Benutzer, um Artikel hinzufügen zu können  | 120' |
+| 2.A | 12.02.2025 | Jashari | Implementierung der Bearbeitenfunktion | 45' |
+| 3.A | 19.02.2025 | Jashari | Implementierung der Funktion, Artikel als "gekauft" zu markieren.  | 30' |
+| 4.A | 19.02.2025 | Jashari| Implementierung der Löschfunktion | 45' |
+| 5.A | 19.02.2025 | Jashari | Verbindung zu SMSS erstellen. | 30' |
+| 6.A | 26.02.2025 | Jashari | API funktionstüchtig versetzen. | 30' |
+| 7.A | 26.02.2025 | Jashari | WPF funktionstüchtig versetzen.  | 120' |
+| 8.A | 26.02.2025 | Jashari | Echtzeit-Liveübertragung implementieren. | 240' |
 
 
 ## 3 Entscheiden
