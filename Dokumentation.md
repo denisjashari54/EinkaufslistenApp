@@ -22,29 +22,25 @@ MultiUserApplikation
 | 2    | Muss            | Funktional  | Benutzer können Artikel in der Einkaufsliste bearbeiten. |
 | 3    | Kann            | Funktional  | Benutzer können Artikel als „gekauft“ markieren. |
 | 4    | Muss            | Funktional  | Benutzer können Artikel löschen. |
-| 4    | Muss            | Funktional  | Artikel werden in SSMS gespeichert und andauernd aktualisiert bei neuen Einträgen. |
-| 5    | Muss            | Qualität  | Die Applikation soll über das Internet benutzbar sein. |
-| 6    | Muss            | Qualität  | Die Applikation soll über ein lokales GUI (WPF) verfügen. |
-| 7    | Muss            | Funktional    | Transaktionsmanagement soll sicherstellen, dass Datenkonsistenz gewährleistet wird. |
+| 5    | Muss            | Funktional  | Artikel werden in SSMS automatisch gespeichert und aktualisiert bei neuen Einträgen. |
+| 6    | Muss            | Qualität  | Die Applikation soll über das Internet benutzbar sein. |
+| 7    | Muss            | Qualität  | Die Applikation soll über ein lokales GUI (WPF) verfügen. |
+| 8    | Muss            | Funktional    | Transaktionsmanagement soll sicherstellen, dass Datenkonsistenz gewährleistet wird. |
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage       | Eingabe                     | Erwartete Ausgabe                                    |
 | ----- | ------------------ | --------------------------- | ---------------------------------------------------- |
-| 1.1   | Startseite         | Klick auf "Registrieren"    | Registrierungsformular wird angezeigt                |
-| 1.2   | Registrierungsformular | Ausgefülltes Formular         | Bestätigungsnachricht über erfolgreiche Registrierung |
-| 2.1   | Startseite         | Klick auf "Anmelden"        | Anmeldeformular wird angezeigt |
-| 2.2   | Anmeldeformular    | Eingabe von Benutzerdaten   | Zugang zum Benutzerkonto                             |
-| 3.1   | Anmeldeformular    | Klick auf "Passwort vergessen" | Formular zum Zurücksetzen des Passworts            |
-| 3.2   | Passwort zurücksetzen Formular | Eingabe von Benutzer-Email | Anweisungen zum Zurücksetzen des Passworts per Email |
-| 4.1   | Fahrzeugangebotsseite | Auswahl einer Automarke aus dem Filter | Liste von Autos der gewählten Marke                |
-| 5.1   | Suchergebnisse     | Sortierung auswählen        | Sortierte Liste der Suchergebnisse                   |
+| 1.1   | WPF-UI         | Klick auf "Hinzufügen"    | Neues Artikel wird hinzugefügt                |
+| 1.2   | API (Swagger)         | POST-Anfrage tätigen   | Neues Artikel wird hinzugefügt                |
+| 2.1   | WPF-Ui         | Klick auf "Bearbeiten"        | Artikel wurde bearbeitet. |
+| 2.2   | API (Swagger)         | PUT-Anfrage tätigen        | Artikel wurde bearbeitet. |
+| 3.1   | WPF-UI    | Klick auf "gekauft" | Artikel wird als "gekauft" markiert.            |
+| 4.1   | WPF-UI | Klick auf "Löschen" | Artikel wird gelöscht.              |
+| 4.1   | API (Swagger) | DELETE-Anfrage tätigen | Artikel wird gelöscht.              |
+| 5.1   | SSMS    | Keine Eingabe        |  Artikel wird gespeichert und aktualisiert.               |
 | 6.1   | Auto-Liste         | Klick auf ein Auto          | Detailansicht des gewählten Autos mit technischen Daten und Fotos |
 | 7.1   | Beliebige Seite    | Navigation durch die Website | Einfache und intuitive Nutzung der Website          |
-| 8.1   | Beliebige Seite    | Zugriff von verschiedenen Geräten/Browsern | Schnelles Laden und reaktionsschnelle Darstellung |
-| 9.1   | Auto-Liste         | Klick auf "In den Warenkorb legen" | Bestätigung, dass das Auto zum Warenkorb hinzugefügt wurde |
-| 10.1  | Während angemeldet | Klick auf "Warenkorb"       | Anzeige der Inhalte des Warenkorbs                   |
-| 11.1  | Auto-Detailansicht | Scrollen zu Bewertungen     | Anzeige von Bewertungen und Kommentaren anderer Benutzer |
 
 
 ### 1.4 Diagramme
@@ -63,10 +59,7 @@ MultiUserApplikation
 | 5.A | 13.07.2023 | Marku | Implementierung der Sortierfunktion für Suchergebnisse. | 120' |
 | 6.A | 20.07.2023 | Jashari | Programmierung der Detailansicht für Autos mit Fotos und Daten. | 180' |
 | 7.A | 27.07.2023 | Angelov | Optimierung der Benutzerfreundlichkeit und Intuitivität der Website. | 240' |
-| 8.A | 03.08.2023 | Angelov | Sicherstellung der Ladegeschwindigkeit und Responsivität der Website. | 240' |
-| 9.A | 10.08.2023 | Marku | Integration der Warenkorbfunktion für ausgewählte Autos. | 120' |
-| 10.A | 17.08.2023 | Jashari | Entwicklung der Warenkorbansicht für angemeldete Benutzer. | 120' |
-| 11.A | 24.08.2023 | Bajramovic | Integration von Benutzerbewertungen und Kommentaren zu Autos. | 180' |
+
 
 ## 3 Entscheiden
 
@@ -77,19 +70,14 @@ Wir haben in der Gruppe die Arbeitspakete fair verteilt, sodass wir alle zum Imp
 
 | AP-№ | Datum      | Zuständig   | Geplante Zeit | Tatsächliche Zeit |
 | ---- | ---------- | ----------- | ------------- | ----------------- |
-| 1.A  | 15.06.2023 | Marku       | 120'          |  110'                 |
+| 1.A  | 15.06.2023 | Jashari       | 120'          |  110'                 |
 | 2.A  | 22.06.2023 | Jashari     | 120'          |  100'                 |
-| 3.A  | 29.06.2023 | Bajramovic  | 60'           |  50'                  |
-| 4.A  | 06.07.2023 | Bajramovic  | 180'          |  140'                |
-| 5.A  | 13.07.2023 | Marku       | 120'          |  100'               |
+| 3.A  | 29.06.2023 | Jashari  | 60'           |  50'                  |
+| 4.A  | 06.07.2023 | Jashari  | 180'          |  140'                |
+| 5.A  | 13.07.2023 | Jashari       | 120'          |  100'               |
 | 6.A  | 20.07.2023 | Jashari     | 180'          |  140'              |
-| 7.A  | 27.07.2023 | Angelov     | 240'          |  120'               |
-| 8.A  | 03.08.2023 | Angelov     | 240'          |  160'               |
-| 9.A  | 10.08.2023 | Marku       | 120'          |  80'               |
-| 10.A | 17.08.2023 | Jashari     | 120'          |  80'                |
-| 11.A | 24.08.2023 | Bajramovic  | 180'          |  80'                 |
+| 7.A  | 27.07.2023 | Jashari     | 240'          |  120'               |
 
-Total: 1160min
 
 ## 5 Kontrollieren
 
@@ -97,14 +85,10 @@ Total: 1160min
 
 | TC-№ | Datum      | Resultat | Tester      |
 | ---- | ---------- | -------- | ----------- |
-| 1.1  | 12.01.2024 |   Funktioniert       | Angelov     |
-| 2.1  | 12.01.2024 |   Funktioniert       | Marku       |
+| 1.1  | 12.01.2024 |   Funktioniert       | Jashari     |
+| 2.1  | 12.01.2024 |   Funktioniert       | Jashari       |
 | 3.1  | 12.01.2024 |   Funktioniert       | Jashari     |
-| 4.1  | 12.01.2024 |   Funktioniert      | Marku       |
-| 5.1  | 12.01.2024 |   Funktioniert      | Bajramovic  |
-| 6.1  | 12.01.2024 |   Funktioniert       | Angelov     |
+| 4.1  | 12.01.2024 |   Funktioniert      | Jashari       |
+| 5.1  | 12.01.2024 |   Funktioniert      | Jashari  |
+| 6.1  | 12.01.2024 |   Funktioniert       | Jashari     |
 | 7.1  | 12.01.2024 |   Funktioniert       | Jashari     |
-| 8.1  | 12.01.2024 |   Funktioniert       | Marku       |
-| 9.1  | 12.01.2024 |   Funktioniert      | Bajramovic  |
-| 10.1 | 12.01.2024 |   Funktioniert      | Angelov     |
-| 11.1 | 12.01.2024 |   Funktioniert      | Jashari     |
