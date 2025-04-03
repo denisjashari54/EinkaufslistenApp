@@ -18,17 +18,13 @@ MultiUserApplikation
 
 | US-№ | Verbindlichkeit | Typ         | Beschreibung                                     |
 | ---- | --------------- | ----------- | ------------------------------------------------ |
-| 1    | Muss            | Funktional  | Als ein Benutzer möchte ich die Möglichkeit haben, ein Benutzerkonto zu erstellen (registrieren).  |
-| 2    | Muss            | Funktional  | Als ein Benutzer möchte ich mich mit meinem Benutzerkonto anmelden können. |
-| 3    | Kann            | Funktional  | Als ein Benutzer möchte ich mein Passwort zurücksetzen können, falls ich es vergessen habe, um wieder auf mein Konto zugreifen zu können. |
-| 4    | Muss            | Funktional  | Als ein Benutzer möchte ich die Möglichkeit haben, nach Autos basierend auf die Marke zu filtern um das gewünschte Auto zu finden.|
-| 5    | Muss            | Funktional  | Als ein Benutzer möchte ich die Suchergebnisse sortieren können, um die relevantesten Angebote zuerst anzuzeigen, z. B. nach Preis aufsteigend oder absteigend. |
-| 6    | Muss            | Funktional  | Als ein Benutzer möchte ich detaillierte Informationen zu jedem gefundenen Auto anzeigen können, einschließlich technischer Daten und Fotos. |
-| 7    | Muss            | Qualität    | Als ein Benutzer möchte ich eine benutzerfreundliche und intuitive Website erleben, die einfach zu navigieren ist und klare Anweisungen bietet. |
-| 8    | Muss            | Qualität    | Als ein Benutzer möchte ich, dass die Website schnell lädt und reaktionsschnell ist, unabhängig vom verwendeten Gerät oder Browser. |
-| 9    | Muss            | Funktional  | Als ein Benutzer möchte ich die Möglichkeit haben, ein Auto in meinen Warenkorb zu legen. |
-| 10   | Muss            | Funktional  | Als ein Benutzer möchte ich die Option haben, wennn ich angemeldet bin meinen Warenkorb anzusehen. |
-| 11   | Kann            | Qualität    | Als ein Benutzer möchte ich detaillierte Bewertungen und Kommentare von anderen Benutzern über die Autos auf der Website sehen, um fundierte Entscheidungen zu treffen. |
+| 1    | Muss            | Funktional  | Mehrere Benutzer können Artikel zur Einkaufsliste hinzufügen.  |
+| 2    | Muss            | Funktional  | Benutzer können Artikel in der Einkaufsliste bearbeiten. |
+| 3    | Kann            | Funktional  | Benutzer können Artikel als „gekauft“ markieren. |
+| 4    | Muss            | Funktional  | Benutzer können Artikel löschen. |
+| 5    | Muss            | Funktional  | Die Applikation soll über das Internet benutzbar sein. |
+| 6    | Muss            | Funktional  | Die Applikation soll über ein lokales GUI (WPF) verfügen. |
+| 7    | Muss            | Qualität    | Transaktionsmanagement soll sicherstellen, dass Datenkonsistenz gewährleistet wird. |
 
 ### 1.3 Testfälle
 
